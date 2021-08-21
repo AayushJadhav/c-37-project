@@ -1,4 +1,4 @@
 # c-37-project
 MYQUIZ GAME
 
-page [link]()
+page [link](https://aayushjadhav.github.io/c-37-project/)
